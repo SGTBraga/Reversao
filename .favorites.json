@@ -1,0 +1,38 @@
+[
+    {
+        "type": "Directory",
+        "name": "c:\\xampp\\htdocs\\reversao\\app\\Models",
+        "parent_id": null,
+        "fsPath": "c:\\xampp\\htdocs\\reversao\\app\\Models",
+        "workspaceRoot": null,
+        "workspacePath": null,
+        "id": "wGvguI6DZHd5lCcN"
+    },
+    {
+        "type": "Directory",
+        "name": "c:\\xampp\\htdocs\\reversao\\resources\\views",
+        "parent_id": null,
+        "fsPath": "c:\\xampp\\htdocs\\reversao\\resources\\views",
+        "workspaceRoot": null,
+        "workspacePath": null,
+        "id": "LatcXK5lJ2nAI7WS"
+    },
+    {
+        "type": "Directory",
+        "name": "c:\\xampp\\htdocs\\reversao\\routes",
+        "parent_id": null,
+        "fsPath": "c:\\xampp\\htdocs\\reversao\\routes",
+        "workspaceRoot": null,
+        "workspacePath": null,
+        "id": "IXhByu0OCYfm2976"
+    },
+    {
+        "type": "Directory",
+        "name": "c:\\xampp\\htdocs\\reversao\\app\\Http\\Controllers",
+        "parent_id": null,
+        "fsPath": "c:\\xampp\\htdocs\\reversao\\app\\Http\\Controllers",
+        "workspaceRoot": null,
+        "workspacePath": null,
+        "id": "qb5HtEpYln9CJfey"
+    }
+]
